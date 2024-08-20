@@ -1,0 +1,55 @@
+### Summary of Non-Negotiable Waybill (B/L No. 720322478)
+
+#### Overview
+This document serves as a Non-Negotiable Waybill issued by Maersk A/S for the shipment of 1600 cartons of fresh oranges from South Africa to China, with specific terms and conditions outlined for the shipment.
+
+#### Key Parties Involved
+- **Shipper**: SAFRESCO SOUTH AFRICA (PTY) LTD
+  GROUND FLOOR, B BLOCK, WALMER PARK,
+  OFFICE SUITES, 16TH AVENUE, WALMER,
+  PORT ELIZABETH, REPUBLIC OF SOUTH AFRICA.
+
+- **Consignee**: ZHEJIANG OHENG IMPORT & EXPORT CO., LTD
+  UNIT 2-3, BUILDING 28, NO. 688, HENGNAN ROAD,
+  MINHANG DISTRICT, SHANGHAI, CHINA.
+
+- **Notify Party**: Same as Consignee.
+
+#### Shipment Details
+- **Booking Number**: 720322478.
+- **Container**: 1 x 40' hi-cube reefer container.
+- **Contents**: 1600 cartons of fresh oranges (HS Code: 0805.10).
+- **Weight**: 28,006 kg.
+- **Volume**: 50.00 CBM.
+- **Temperature Settings**: -1.5 °C for cold treatment.
+
+#### Terms of Transport
+- The contract is subject to the terms, conditions, and exceptions stated in the Maersk Bill of Lading, including clauses related to liability, declared value, and jurisdiction.
+
+- The Shipper can change the consignee before delivery, provided reasonable written notice is given to the Carrier.
+
+- Delivery will be made upon proof of identity; the carrier is not liable for misdeliveries except in cases of negligence.
+
+#### Additional Conditions
+- **Cold Treatment**: Goods are subject to cold treatment with fees applied. Specific conditions apply regarding temperature protocol both pre- and post-loading to ensure compliance with cold chain logistics.
+
+- **Liability**: The carrier assumes no responsibility for loss or damage due to improper cold treatment unless negligence is proven.
+
+- **Sanctions Compliance**: The Merchant must ensure compliance with all EU, US, and UN sanctions laws. The shipment will not involve any listed entities or individuals and will be returned if any sanctions laws are violated.
+
+#### Financial Aspects
+- Freight and Charges are described as prepaid.
+- Declared value and shipping costs must be in accordance with the relevant terms established in the Maersk Bill of Lading.
+
+#### Important Dates
+- **Place of Issue**: Cape Town.
+- **Shipped on Board Date**: August 5, 2024.
+- **Date of Issue of Waybill**: August 12, 2024.
+
+#### Signatory
+The document is signed on behalf of Maersk A/S, confirming the terms and details as stated.
+
+---
+
+This summary encapsulates the essential details regarding the shipment and the contractual obligations inherent in the non-negotiable waybill, providing an overview 
+while ensuring that core elements, compliance mandates, and logistical responsibilities remain clear for all parties involved.

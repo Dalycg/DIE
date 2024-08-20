@@ -1,0 +1,70 @@
+**Document Summary:**
+
+**Exporter Information:**
+- **Name:** Safrescos South Africa (Pty) Ltd
+- **Address:** Ground 1, B Block, Walmer Park Office Suites, 16th Ave, Walmer, Port Elizabeth, South Africa
+- **Contact:** Tel: +27-41-3689015 | Fax: +27-41-3686150
+- **VAT No:** 4270257746
+- **Reg No:** 2010/010179/07
+
+**Invoice Details:**
+- **Date:** 06/08/2024
+- **Consignment Note:** 80328129
+- **Invoice ID:** 90100999
+
+**Consignee Information:**
+- **Name:** Beijing Huinong International
+- **Contact:** Hongyer Road 815, Room No 7, Building N, Daxing District, Beijing, China
+- **UCR No:** 4ZA21053052C
+- **VAT No:** Not provided
+
+**On Behalf Of:**
+- **Company:** Zhejiang Oheng Import & Export Co. Ltd
+- **Address:** Unit 2-3 Hengnan Road, Lane 688, Shanghai, China
+
+**Shipping Details:**
+- **Vessel Name:** San Christobal
+- **Port of Loading (POL):** Zadur
+- **Estimated Time of Departure (ETD):** 06/08/2024
+- **Voyage No:** 429N
+- **Port of Discharge (POD):** Cnsha
+- **Estimated Time of Arrival (ETA):** 04/09/2024
+
+**Order Information:**
+- **Sales Order No:** 20038553
+- **Container Number:** MNBU4121154
+
+**Product Details:**
+- **Product:** Orange (0805.10)
+- **Net Weight:** 26,093.00 KG
+- **Gross Weight:** 27,741.00 KG
+- **Variety:** Midnight
+- **Grade:** A15C
+- **Mark Count:** 20.000
+- **Pallets:** 20.000
+- **Cartons:** 1,600
+
+**Financial Summary:**
+- **Advance Final Combined Total:** USD 22,400.00
+- **Total Cartons:** 1,600
+- **Incoterm 2020:** CIF Shanghai
+- **FOB Value:** USD 16,301.29
+- **Freight:** USD 5,694.00
+- **Insurance:** USD 404.71
+- **Total Invoice Amount:** USD 22,400.00
+
+**Payment Terms:**
+- **Banking Details:**
+  - **Account No:** 121013411152
+  - **Bank:** HSBC Bank Plc
+  - **Swift Code:** HSBCZAJJ
+  - **Branch:** Johannesburg
+
+**Declaration:**
+The exporter declares that the products covered by the document, under customs authorization number 21053052, are of South African preferential origin, except where 
+otherwise indicated.
+
+**Contact Information for Exporter:**
+- **Telephone:** 0413689015
+- **Fax:** 0413686750
+- **Email:** commercial_za@safrescoglobal.com

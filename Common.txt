@@ -1,0 +1,10 @@
+Exporter Name
+Exporter Address
+Consignee Name
+Consignee Address
+Product Description
+Product Weight
+Carton Quantity
+Container Number
+Shipment Date
+Issue Date
